@@ -25,9 +25,9 @@ PR's are more than welcome
 
 
 #### Components:
-    [Control](https://github.com/vlakarados/Rig-Control)
-    [HTTP](https://github.com/vlakarados/Rig-HTTP)
-    [Track](https://github.com/vlakarados/Rig-Track)
++ [Control](https://github.com/vlakarados/Rig-Control)
++ [HTTP](https://github.com/vlakarados/Rig-HTTP)
++ [Track](https://github.com/vlakarados/Rig-Track)
 
 
     
