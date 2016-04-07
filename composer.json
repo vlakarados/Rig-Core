@@ -1,0 +1,11 @@
+{
+    "name": "vlakarados/rig-core",
+    "description": "Core package of Rig",
+    "authors": [
+        {
+            "name": "Sergey Telshevsky",
+            "email": "vlakarados@gmail.com"
+        }
+    ],
+    "require": {}
+}
